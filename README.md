@@ -8,3 +8,5 @@ word you wish to search for and once the word has been searched the synonyms of 
 
 
 
+#LINK TO GITHIB PAGES
+https://stephenonchieku1.github.io/SYNY-THE-SYNONYM-FINDER/
